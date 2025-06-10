@@ -1,0 +1,16 @@
+Software Requirement:
+1. Wamp/Xamp
+2. Browser
+
+Step to run:
+1. Install Wamp/Xamp and run it
+2. Open Browser and go to localhost/phpmyadmin Import form.sql in Wamp/Xamp database
+3. copy paste form folder where you installed Wamp/Xamp
+(for Wamp in 'www' folder)
+4. Open new tab and go to localhost/form/login.php
+
+Email ID for Employee: abc@gmail.com
+Password for Employee: abc
+
+Email ID for Admin: admin@gmail.com
+Password for Admin: admin
